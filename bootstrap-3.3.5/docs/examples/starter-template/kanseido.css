@@ -1,0 +1,41 @@
+@charset "UTF-8";
+
+body{
+    font-family: "Arial";
+}
+
+body h1, h3{
+    font-family: "ヒラギノ明朝 Pro W3",Georgia,Century,"Times New Roman",Times,"ＭＳ 明朝",serif;
+}
+
+.c-bottom{
+    /*margin-bottom: 130px;*/
+}
+
+.images{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+p{
+    font-size: 20px;
+}
+
+.gray{
+    background-color: #ddd;
+    width: 100%;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.white{
+    background-color: #fff;
+    width: 100%;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+#main-visual {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
